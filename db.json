@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "5",
+      "name": "Pawar Parth Umesh 5",
+      "age": 20,
+      "email": "pawarparth@example.com"
+    },
+    {
+      "id": "30",
+      "name": "amir  khan",
+      "age": "90",
+      "email": "pawarparth233@gmail.com"
+    },
+    {
+      "id": "700",
+      "name": "shshsh",
+      "age": "100",
+      "email": "shahrukh@gmail.com"
+    },
+    {
+      "id": "13",
+      "name": "patel sahila",
+      "age": "10000000",
+      "email": "pawarparth233@gmail.com"
+    }
+  ]
+}
